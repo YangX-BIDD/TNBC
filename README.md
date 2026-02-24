@@ -1,5 +1,7 @@
 # SOST in Triple-Negative Breast Cancer: Analysis Code and Figures
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18752090.svg)](https://doi.org/10.5281/zenodo.18752090)
+
 ## Overview
 This repository contains code and data for generating key figures in the SOST-TNBC research project.
 
@@ -106,7 +108,25 @@ python figure2_sost_mki67_correlation.py
 ## Citation
 
 If you use this code or data, please cite:
-[Your publication information here]
+
+**Zenodo DOI**: 
+```
+Yang, X. (2026). Code and Data for SOST Analysis in Triple-Negative Breast Cancer (Version v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.18752090
+```
+
+**BibTeX**:
+```bibtex
+@software{yang_2026_sost_tnbc,
+  author       = {Yang, X.},
+  title        = {{Code and Data for SOST Analysis in Triple-Negative Breast Cancer}},
+  month        = feb,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.18752090},
+  url          = {https://doi.org/10.5281/zenodo.18752090}
+}
+```
 
 ## Contact
 
