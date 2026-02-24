@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Code and Data for SOST Analysis in Triple-Negative Breast Cancer
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - family-names: Yang
+    given-names: X.
+    affiliation: BIDD Laboratory
+repository-code: 'https://github.com/YangX-BIDD/TNBC'
+keywords:
+  - SOST
+  - Triple-negative breast cancer
+  - TNBC
+  - Biomarker
+  - Gene expression
+license: MIT

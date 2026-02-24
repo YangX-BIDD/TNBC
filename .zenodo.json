@@ -1,0 +1,22 @@
+{
+  "title": "Code and Data for SOST Analysis in Triple-Negative Breast Cancer",
+  "description": "This repository contains code and data for generating key figures in SOST-TNBC research, including H-Score distribution analysis and SOST-MKI67 correlation analysis in triple-negative breast cancer.",
+  "creators": [
+    {
+      "name": "Yang, X.",
+      "affiliation": "BIDD Laboratory"
+    }
+  ],
+  "keywords": [
+    "SOST",
+    "Triple-negative breast cancer",
+    "TNBC",
+    "Biomarker",
+    "Gene expression",
+    "MKI67",
+    "H-Score"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open"
+}
